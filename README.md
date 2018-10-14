@@ -1,0 +1,1 @@
+This project selects specific rows and clumns from MYSQL Sakila database.
